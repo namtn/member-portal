@@ -1,0 +1,510 @@
+{
+    "title": "Hello",
+    "point": " point",
+    "currentBalance": "Current balance",
+    "continue": "Continue",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "addNew": "Add new",
+    "goToCart": "Go to cart",
+    "backHome": "Back to home page",
+    "homePage": {
+        "discover": "Hot deals",
+        "balance": "Balance",
+        "scan": "Scan",
+        "linkCard": "Link card",
+        "gift": "Redeem gifts",
+        "hot": "Hot",
+        "newest": "Newest",
+        "category": "Category",
+        "interesting": "Interesting",
+        "soon": "Expiring soon",
+        "near": "Recently viewed",
+        "seeAll": "See all",
+        "store": "Favorite stores",
+        "noItem": "Any item that you’ve recently saved or purchased will appear here.",
+        "paymentSuccess": "Payment successfully !",
+        "scanSuccess": "Congratulations, you have received {award} points",
+        "noItemFound": "No voucher found!",
+        "notUsed": "Not used",
+        "used": "Used",
+        "pleaseAddress": "Please select type shipping gifts",
+        "receiveAtBranch": "Receive at the branch",
+        "receiveAtAddress": "Door-to-door delivery"
+    },
+    "languageSettingPage": {
+        "pageTitle": "Language Settings",
+        "messageSuccess": "Language changed successfully",
+        "buttonTitle": "Update"
+    },
+    "loginPage": {
+        "phone": "Phone number",
+        "pass": "Password",
+        "login": "Login",
+        "forgetPass": "Forgot password?",
+        "touchId": "Sign in with Touch ID",
+        "notMember": "Not a member yet? ",
+        "createAccount": "Create an account",
+        "phoneEmpty": "Phone number can't be empty",
+        "passEmpty": "Password can't be empty",
+        "keep": "Keep me logged in"
+    },
+    "mainPage": {
+        "home": "Home",
+        "search": "Browser",
+        "wallet": "Wallet",
+        "store": "Store",
+        "profile": "Profile"
+    },
+    "registrationPage": {
+        "createAccount": "Create account",
+        "createPassword": "Create password",
+        "name": "Your name",
+        "phone": "Phone number",
+        "continue": "Next",
+        "pass": "Password",
+        "rePass": "Re-enter password",
+        "customer_of": "You are the customer of: ",
+        "done": "Confirm",
+        "terms": "By clicking 'Confirm' you accept our Terms & Condition and Privacy Policy",
+        "nameRequire": "Please enter your name",
+        "100Char": "Please enter no more than 100 characters",
+        "phoneUsed": "Phone number already in use",
+        "passNotMatch": "Password does not match",
+        "rePassRequire": "Please re-enter password",
+        "passLeast": "Password must be at least 8 characters",
+        "createSuccess": "Account successfully created",
+        "enterOTP": "Enter OTP",
+        "sendOTP": "Send OTP",
+        "requireOTP": "OTP code must be 6 characters",
+        "no_customer": "Please select your customer!"
+    },
+    "profilePage": {
+        "updateAccount": "Profile",
+        "balance": "Balance",
+        "transaction": "Transaction history",
+        "memberCode": "Member code",
+        "notification": "Notification",
+        "accountLinked": "Linked accounts",
+        "cardLinked": "Linked cards",
+        "setting": "Settings",
+        "support": "Support center",
+        "logout": "Log out"
+    },
+    "cardLinked": {
+        "associateWithTheBank": "Link bank account",
+        "associateWithTheBankForEasy": "Link bank account for easy deposit",
+        "linkNow": "Link now >>>",
+        "addNewCard": "Add a new card",
+        "no_list_link": "You are not affiliated with any bank"
+    },
+    "accountLinked": {
+        "header": "Linked accounts",
+        "add": "More",
+        "unLink": "Unlink",
+        "addPartner": "Add account",
+        "select": "Select partner",
+        "id": "Customer Id",
+        "name": "Customer name",
+        "continue": "Continue",
+        "sure": "Are you sure want to unlink your account?",
+        "success": "Account added successfully!"
+    },
+    "addAccountLinked": {
+        "header": "Add affiliate account",
+        "selectPartner": "Select an affiliate partner",
+        "enterId": "Enter ID number",
+        "continue": "Continue"
+    },
+    "profileEditPage": {
+        "updateAccount": "Update account",
+        "save": "Save",
+        "name": "Name",
+        "phone": "Phone number",
+        "gender": "Gender",
+        "male": "Male",
+        "female": "Female",
+        "referralCode": "Referral code",
+        "share": "Share",
+        "updateSuccess": "Account updated successfully",
+        "updateFail": "Update failed",
+        "avatarSuccess": "Account updated successfully",
+        "avatarFail": "Update failed",
+        "changeAvatar": "Change avatar",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "cancel": "Cancel",
+        "sure": "Are you sure to change your avatar?",
+        "get": "Get new hot deals delivered right to",
+        "notVerify": "Unverified account",
+        "verify": "VERIFY ACCOUNT",
+        "date": "Date of birth",
+        "address": "Address",
+        "active": "Account has been verified  >",
+        "enterBirth": "Your birthday invalid"
+    },
+    "supportCenter": {
+        "aboutMbf": "About OneLoyalty",
+        "tac": "Terms And Conditions",
+        "faq": "Frequently Asked Questions(FAQs)",
+        "sendFeedback": "Send feedback",
+        "sub": "Select subject",
+        "topic": "Select topic",
+        "success": "Send feedback successfully!"
+    },
+    "categoryPage": {
+        "category": "Category"
+    },
+    "offerPage": {
+        "tradePoint": "Trade point",
+        "allOffers": "All offers",
+        "myOffers": "My offers",
+        "tradeNow": "Trade now",
+        "offerRef": "Offer ref",
+        "expiresOn": "Expires on"
+    },
+    "transactionHistoryPage": {
+        "to": "to",
+        "transactionHistory": "Transaction History",
+        "gift": "Redeem transaction",
+        "point": "Reward transaction",
+        "pos": "POS sale transaction",
+        "noTransaction": "No transactions found",
+        "time": "Time",
+        "content": "Content: ",
+        "fromDate": "Start date",
+        "endDate": "End date",
+        "transactionType": "Transaction type",
+        "selectTime": "Select date"
+    },
+    "sendFeedBack": {
+        "chooseTheme": "Choose a topic",
+        "billNumber": "Code bills",
+        "content": "Content"
+    },
+    "chooseBank": {
+        "chooseBank": "Choose a bank",
+        "bankLink": "Local ATM cards",
+        "internationalPaymentCards": "International payment cards",
+        "searchBank": "Find a bank",
+        "continue": "Continue"
+    },
+    "associateCondition": {
+        "associateCondition": "Linking conditions",
+        "header": "In order to link your account, your card must meet the following conditions:",
+        "condition_1": "{name} online payment function is enabled",
+        "condition_2": "Phone number xxxx-xxx-xxx has been registered at {name} and has matching information",
+        "linkNow": "Link now"
+    },
+    "memberCodePage": {
+        "memberCode": "Member code",
+        "text": "Please give this code to the staff when checkout"
+    },
+    "notificationPage": {
+        "noti": "Notification",
+        "noNoti": "No notification found",
+        "delete": "Delete notification",
+        "deleteNoti": "Delete all notification",
+        "sure": "Are you sure you want to delete all notifications?",
+        "restore": "You cannot recover deleted notifications",
+        "no": "No",
+        "yes": "Yes, delete all",
+        "yes1": "Delete",
+        "deleteAll": "Delete all"
+    },
+    "infoCard": {
+        "infoCard": "Card information",
+        "numberCard": "Card number",
+        "deadlineCard": "Expiration date",
+        "nameCard": "Account name",
+        "linkCard": "Link",
+        "numberCard_empty": "Card number may not be blank",
+        "deadlineCard_empty": "Require",
+        "nameCard_empty": "Account name may not be blank",
+        "linkCard_success": "Link card successful"
+    },
+    "cardAuthentication": {
+        "header": "Card authentication",
+        "title": "Please enter the one-time password (OTP) that has been sent to phone number {phone}",
+        "enterOTP": "Enter the OTP code",
+        "resendCode": "Resend code",
+        "requestNewOTP": "You can request a new code after ",
+        "incorrectOTPCode": "Incorrect OTP code",
+        "countDown": "Code expires later {count}s",
+        "inputOtp": "Input OTP"
+    },
+    "detailCardLink": {
+        "header": "Card Information",
+        "cardType": "Card type",
+        "numberCard": "Card number",
+        "status": "Status",
+        "unLink": "Unlink",
+        "headerModal": "Unlink this card?",
+        "titleModal": "Are you sure you want to delete this card link?",
+        "yes": "Yes, cancel now",
+        "no": "No",
+        "linked": "Linked",
+        "unLink_success": "Successfully unlinked",
+        "unLink_fail": "Unlinking failed"
+    },
+    "walletDeals": {
+        "header": "Wallet deals",
+        "myOffer": "My offer",
+        "noData": "You don't have any Items in your wallet yet",
+        "favoriteDeals": "Favorite deals",
+        "physics_item": "Physical items",
+        "expireDate": "Expire date",
+        "selectDate": "Select date",
+        "useStatus": "Usage status"
+    },
+    "coupon_card": {
+        "useNow": "Use now",
+        "daysLeft": "{days} days left",
+        "expired": "Expired",
+        "delete": "Delete",
+        "expiration_date": "Expiry date: ",
+        "deleteCoupon": "Delete coupon",
+        "sure": "Are you sure delete this coupon ?"
+    },
+    "wallet_balance": {
+        "header": "My wallet",
+        "balance": "Wallet balance",
+        "reward_points": "Reward points",
+        "bonusPoint": "Bonus point",
+        "title": "{points} points will expire on {exp}",
+        "recharge": "Top up",
+        "withdrawal": "Withdraw",
+        "redeem_points": "Exchange",
+        "give_points": "Transfer points",
+        "operation_history": "Operation history",
+        "seeAll": "See all",
+        "enter_recharge": "Enter the amount to top up",
+        "enter_withdrawal": "Enter the amount to withdraw",
+        "amount_toChange": "Enter amount",
+        "corresponding_point": "Point amount",
+        "enterPoint": "Enter point",
+        "corresponding_amount": "Amount",
+        "success": "Exchange successfully",
+        "balance_points": "Balance points {balance_points}",
+        "balance_value": "Wallet balance {balance} VND",
+        "receiving_account": "Select the receiving account",
+        "validate_recharge": "Your account needs a minimum balance of ${money} VND to make a deposit.",
+        "source_money": "Choose a source of money",
+        "type_card": "Debit card"
+    },
+    "bonusPoints": {
+        "header": "Transfer points",
+        "recipientPhoneNumber": "Recipient's phone number",
+        "pointsDonate": "Number of points to donate",
+        "mess": "Message",
+        "next": "Next",
+        "success": "Transfer successful"
+    },
+    "itemDetailPage": {
+        "use": "Terms and conditions",
+        "place": "Locations",
+        "tutorial": "Promo details",
+        "amount": "Quantity",
+        "provided_by": "Provided by",
+        "about": "About",
+        "add": "Add to cart",
+        "map": "Map",
+        "call": "Call",
+        "success": "Deal has been added to the cart",
+        "redeem": "Redeem now",
+        "exp": "EXP: ",
+        "like": "Like",
+        "no_expiration_date": "No expiration date",
+        "updateSuccess": "Update fulfillment status successfully",
+        "updateReceive": "Update received",
+        "canceled": "Canceled",
+        "delivered": "Delivered",
+        "packed": "Packed",
+        "received": "Received",
+        "redeemed": "Redeemed",
+        "share": "Share"
+    },
+    "browser": {
+        "seeAll": "See more",
+        "search": "Search",
+        "hint_textSearch": "Enter the brand of service you are looking for"
+    },
+    "search_header": {
+        "hint": "Enter the brand and service you seek",
+        "suggestions": "Suggestions for you"
+    },
+    "cart_page": {
+        "header": "Cart",
+        "offersSelected": "{offers} offers selected",
+        "redeemGifts": "Redeem gifts",
+        "delete": "Delete",
+        "exchangeGiftWith": "Redeem gifts",
+        "currentBalance": "Current balance: ",
+        "remainingBalance": "The remaining balance: ",
+        "cancel": "Cancel",
+        "addToCart": "Add to cart",
+        "continue": "Redeem now",
+        "redeemSuccess": "Redeem successfully!",
+        "redeemFail": "Redeem failed!",
+        "title_delete_multi": "Are you sure to delete all selected offers in the cart?",
+        "max_qty": "The maximum number of gifts in a single purchase is {number}",
+        "notSelect": "You have not selected any voucher"
+    },
+    "search_result": {
+        "no_data": "No result is found"
+    },
+    "load_more": {
+        "no_more": "No more results"
+    },
+    "storePage": {
+        "enterBrand": "Enter the brand or service you are looking for",
+        "store": "Store",
+        "tabAll": "All stores",
+        "tabFavorite": "Favorite stores",
+        "endow": "Deals",
+        "like": "Like"
+    },
+    "confirmDialog": {
+        "confirm": "Confirm",
+        "done": "Done",
+        "cancel": "Cancel",
+        "redeemNow": "Redeem now",
+        "back": "Back"
+    },
+    "checkout_final": {
+        "promotion_code_at": "Coupon code at ",
+        "finish": "Finish",
+        "show_code": "Please show this code to the cashier to apply the coupon"
+    },
+    "favorite_list": {
+        "header": "My Likes",
+        "favourite": "My Likes"
+    },
+    "redeemFinalPage": {
+        "success": "Successful redemption!",
+        "deal": "Deals redeemed",
+        "pointUsed": "Used Point",
+        "desValid": "The maximum time of receiving goods is a week since the successful redemption. Later, ACB will cancel the gift and refund the reward points to customer in case of unsuccess."
+    },
+    "address_gift": {
+        "address_accept": "Address accepting gifts",
+        "recipient's_name": "Recipient's name",
+        "company_name": "Company name (optional)",
+        "phone": "Phone number",
+        "email": "Email",
+        "address": "Address",
+        "continue": "Continue",
+        "province_city": "Province/City",
+        "select_province_city": "Select Province/City",
+        "district": "District",
+        "select_district": "Select District"
+    },
+    "current_lang": {
+        "lang": "English"
+    },
+    "setting_page": {
+        "setting": "Settings",
+        "language": "Language",
+        "biometric_authentication": "Biometric authentication",
+        "change_pin_code": "Change pin code",
+        "face_id": "Fingerprint, Face ID"
+    },
+    "verifyPage": {
+        "select": "Select card type",
+        "image": "Your portrait",
+        "please": "Please select a photo that clearly shows your face",
+        "front": "Card front",
+        "back": "Card back",
+        "confirm": "Confirm",
+        "verify": "Verify account"
+    },
+    "scan_page": {
+        "accumulate_points": "Reward",
+        "pay": "Pay",
+        "membership_code": "Member code"
+    },
+    "reward_point": {
+        "accumulate_points": "Accumulate points",
+        "reward_Points": "Reward points",
+        "gold_class": "Gold",
+        "accumulate": "You need to accumulate another {points} points to be promoted to {tier}",
+        "point_expire": "Point to be exprired: ",
+        "point_expire_content": "{value} point will expire on {date}",
+        "point_not_available": "Point not yet available: ",
+        "point_not_available_content": "19 points will be available if customers shop at Aeon mall Ha Dong before January 29, 2020"
+    },
+    "add_coupon_to_cart": {
+        "fail": "Unable to add to cart"
+    },
+    "payment_page": {
+        "pay": "Payment",
+        "store": "Store",
+        "enter": "Enter the amount to pay",
+        "resource": "Money resource",
+        "confirm": "Confirm",
+        "yourWallet": "Your wallet",
+        "point": "Point",
+        "card": "Linked cards",
+        "security": "Payment security",
+        "please": "Please enter pin code",
+        "pointt": "point",
+        "empty": "Please enter amount !"
+    },
+    "showMessage": {
+        "topUp": "Top up successfully",
+        "with": "Withdrawal request successfully",
+        "currentBalance": "Current balance: ",
+        "done": "Done",
+        "upload": "Update information card successfully"
+    },
+    "rank": {
+        "gold": "Gold",
+        "silver": "Silver",
+        "bronze": "Bronze"
+    },
+    "registerSuccessPage": {
+        "cong": "Congratulations",
+        "success": "You have successfully created an account on OneLoyalty.",
+        "auto": "Automatically redirect to login page after {time}s"
+    },
+    "infomationPage": {
+        "info": "Personal information",
+        "type": "Type of card",
+        "number": "Number",
+        "name": "Full name",
+        "birth": "Date of birth",
+        "dom": "Domicile",
+        "address": "Address",
+        "date": "Date of issue",
+        "place": "Place of issue",
+        "image": "Profile image",
+        "upload": "Uploaded"
+    },
+    "resetPasswordPage": {
+        "reset": "Reset password",
+        "will": "We will send a verification code to your phone number !",
+        "phone": "Phone number",
+        "enterPhone": "Please enter your phone number !",
+        "newPassword": "New password",
+        "reNewPassword": "Re-enter new password",
+        "code": "Verity code",
+        "least": "Password is at least 8 characters",
+        "enterCode": "Please enter verification code",
+        "confirm": "Confirm",
+        "success": "Reset password successfully !",
+        "notMatch": "Password did not match, please try again !",
+        "reEnter": "Please re-enter password",
+        "des": "A verification code is sent to "
+    },
+    "theme_setting_page": {
+        "title": "Theme Setting",
+        "updateThemeError": "Change theme error !"
+    },
+    "shipping": {
+        "title": "Select address",
+        "selectBranch": "Please select branch"
+    },
+    "member_tier": {
+        "title": "Hạng thành viên"
+    }
+}
